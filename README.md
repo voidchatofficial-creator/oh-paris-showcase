@@ -38,7 +38,7 @@ Hi, I'm **Ravi K.** — a **Full-Stack Web & App Developer** who takes projects 
 * **Upwork Profile:** [Ravi K. — Full-Stack Creator (ID Verified)](https://www.upwork.com/freelancers/~01350c3a5b3155273f?mp_source=share)
 * **Email:** [rk941258287@gmail.com](mailto:rk941258287@gmail.com)
 * **Instagram:** [@raviandmysteriouslife](https://www.instagram.com/raviandmysteriouslife/)
-* **Phone:** +91 9518483607
+* **Phone:** +91 9053633492
 
 ---
 
