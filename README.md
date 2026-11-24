@@ -8,7 +8,7 @@ A luxury, Parisian-inspired café website built to showcase high-end visual stor
 
 ---
 
-## 🖼️ Hero & Visual Preview
+![Oh, Paris Hero Preview](hero-preview.png)
 
 > **Hero Experience:** *A TASTE OF PARIS* — **Oh, Paris ✦** (*"Where luxury meets the art of French café culture."*) featuring top navigation (**Home**, **About**, **Menu**, **Experience**, **Contact**), a **Discover Our Café** CTA button, and a smooth scroll prompt over a dark, gold-accented Parisian café backdrop.
 
