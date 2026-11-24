@@ -22,7 +22,8 @@ A luxury, Parisian-inspired café website built to showcase high-end visual stor
 
 ## 👨‍💻 About Me
 
-Hi, I'm **Ravi K.** — a **Full-Stack Web & App Developer** who takes projects from an initial idea to a fully launched product. I specialize in modern business websites, mobile applications, user authentication systems, and secure payment gateway integrations (**Razorpay**, **PayPal**, and **Stripe**).
+Hi, I'm **Ravi K.** — a **Full-Stack Web & App Developer** who takes projects from an initial idea to a fully launched product. I specialize in modern business websites, mobile applications, user authentication systems, and secure payment gateway integrations (**Razorpay**, **PayPal**, and **Stripe**). **Registered Business:** Founder of **VOID DIGITAL** — Govt. of India Registered MSME (`UDYAM-HR-17-0069173`, Services Sector)[cite: 9, 10].
+
 
 ### What I Build
 * **High-Converting Websites & Landing Pages:** Fast, responsive designs built and deployed for brands, cafés, and businesses.
