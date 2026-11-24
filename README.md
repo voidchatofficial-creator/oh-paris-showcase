@@ -8,8 +8,7 @@ A luxury, Parisian-inspired café website built to showcase high-end visual stor
 
 ---
 
-<img width="959" height="473" alt="image" src="https://github.com/user-attachments/assets/34cf6c81-b387-4563-b5cf-5c03eee1e2ed" />
-
+![Oh, Paris Hero Preview](PARIS-CAF.jpg)
 
 > **Hero Experience:** *A TASTE OF PARIS* — **Oh, Paris ✦** (*"Where luxury meets the art of French café culture."*) featuring top navigation (**Home**, **About**, **Menu**, **Experience**, **Contact**), a **Discover Our Café** CTA button, and a smooth scroll prompt over a dark, gold-accented Parisian café backdrop.
 
