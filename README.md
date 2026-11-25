@@ -3,7 +3,7 @@ Luxury Parisian café website showcase — live demo, features &amp; developer o
 # Oh, Paris ✦ | Luxury Café Experience
 A luxury, Parisian-inspired café website built to showcase high-end visual storytelling, smooth scrolling interactions, and an elegant culinary menu.
 
-🌐 **Live Website:** [View Live Deployment](https://paris-cafe-e5xy4d9ne-voidchatofficial-creator.vercel.app/)  
+🌐 **Live Website:** [View Live Deployment](https://paris-cafe-theta.vercel.app/)  
 🔒 **Repository Status:** Private Portfolio Project
 
 ---
