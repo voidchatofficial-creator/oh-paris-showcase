@@ -15,7 +15,7 @@ A luxury, Parisian-inspired café website built to showcase high-end visual stor
 ### Key Project Features
 * **Luxury Café Hero Section:** Full-screen atmospheric opening with gold accents, editorial serif typography, and clear navigation (`Home`, `About`, `Menu`, `Experience`, `Contact`).
 * **Interactive Menu & Experience Sections:** Showcases signature French coffee and pastry items alongside storytelling pillars (*French Craftsmanship*, `01` | *Luxury Atmosphere*, `02` | *Signature Pastries*, `03`).
-* **Media-Rich Presentation:** Combines custom video clips and café imagery (`PARIS-CAF.jpg`, `INDEX.HTML`, `style.css`, `script.js`) deployed live on [Vercel].
+* **Media-Rich Presentation:** Combines custom video clips and café imagery (`PARIS-CAF.jpg`, `INDEX.HTML`, `style.css`, `script.js`) deployed live on Vercel.
 * **Responsive Frontend Architecture:** Built with clean HTML5, custom CSS3, and vanilla JavaScript for fast performance across desktop and mobile devices.
 
 ---
